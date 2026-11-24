@@ -1,0 +1,10 @@
+pillow
+
+# Lets Alt+X / Alt+S work globally (even while VLC's window has focus, not
+# this app's). Without it the app still runs, just without those shortcuts.
+keyboard
+
+# Strongly recommended, not strictly required: without these two, Arabic
+# text in the word card may render with letters in the wrong visual order.
+arabic-reshaper
+python-bidi

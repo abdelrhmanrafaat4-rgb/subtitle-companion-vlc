@@ -1,0 +1,14 @@
+{
+  "geminiKey": "",
+  "model": "",
+  "vlcHost": "127.0.0.1",
+  "vlcPort": 8080,
+  "vlcPassword": "",
+  "subtitlePath": null,
+  "wordsPath": "words.json",
+  "pollSeconds": 0.6,
+  "overlayPosition": "bottom",
+  "overlayXY": null,
+  "fontSize": 14,
+  "barOpacity": 0.92
+}
